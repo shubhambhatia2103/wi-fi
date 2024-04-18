@@ -3,7 +3,6 @@ Normally, in order to access a network when connecting to WiFi, we have to provi
 Wi-Fi is a wireless networking technology that makes it possible for mobile devices, wearables, laptops, and desktop computers to connect to the Internet.
 By creating new processes, the subprocess module in Python (both 2.x and 3.x) is used to run extra programmes or applications that use Python code. Getting the input, output, error, and exit codes for different commands is also helpful.
 
-
 ## Steps for Implementation :
 1. Import the subprocess module 
 2. Get the metadata of the wlan(wifi) with the help of check_output method 
